@@ -43,6 +43,24 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '三妈', year: '1971', date: '07-27',
         },
+        {
+          type: '*生日', name: '大爸', year: '1969', date: '02-04',
+        },
+        {
+          type: '*生日', name: '大姑爷', year: '1966', date: '09-15',
+        },
+        {
+          type: '*生日', name: '婆婆', year: '1946', date: '06-13',
+        },
+        {
+          type: '*生日', name: '表哥', year: '1990', date: '05-30',
+        },
+        {
+          type: '*生日', name: '大姐', year: '1992', date: '07-28',
+        },
+         {
+          type: '*生日', name: '二姐', year: '1995', date: '09-10',
+        },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '生日', name: '奥利奥', year: '2018', date: '04-01',
