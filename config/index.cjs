@@ -29,7 +29,13 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '自己', year: '1997', date: '12-07',
+          type: '*生日', name: '婆婆', year: '1946', date: '06-13',
+        },
+        {
+          type: '*生日', name: '大爸', year: '1969', date: '02-04',
+        },
+        {
+          type: '*生日', name: '大姑爷', year: '1966', date: '09-15',
         },
         {
           type: '*生日', name: '妈妈', year: '1969', date: '07-07',
@@ -44,15 +50,6 @@ const USER_CONFIG = {
           type: '*生日', name: '三妈', year: '1971', date: '07-27',
         },
         {
-          type: '*生日', name: '大爸', year: '1969', date: '02-04',
-        },
-        {
-          type: '*生日', name: '大姑爷', year: '1966', date: '09-15',
-        },
-        {
-          type: '*生日', name: '婆婆', year: '1946', date: '06-13',
-        },
-        {
           type: '*生日', name: '表哥', year: '1990', date: '05-30',
         },
         {
@@ -60,6 +57,15 @@ const USER_CONFIG = {
         },
          {
           type: '*生日', name: '二姐', year: '1995', date: '09-10',
+        },
+        {
+          type: '*生日', name: '自己', year: '1997', date: '12-07',
+        },
+        {
+          type: '*生日', name: '李俊宏', year: '2003', date: '08-10',
+        },
+        {
+          type: '*生日', name: '杨盛', year: '1995', date: '08-02',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
