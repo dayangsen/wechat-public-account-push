@@ -50,6 +50,9 @@ const USER_CONFIG = {
           type: '*生日', name: '三妈', year: '1971', date: '07-27',
         },
         {
+          type: '*生日', name: '四爸', year: '1976', date: '12-03',
+        },
+        {
           type: '*生日', name: '表哥', year: '1990', date: '05-30',
         },
         {
@@ -65,7 +68,7 @@ const USER_CONFIG = {
           type: '*生日', name: '李俊宏', year: '2003', date: '08-10',
         },
         {
-          type: '*生日', name: '杨盛', year: '1995', date: '08-02',
+          type: '*生日', name: '杨盛', year: '2005', date: '08-02',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
