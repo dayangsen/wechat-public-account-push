@@ -65,7 +65,7 @@ const USER_CONFIG = {
           type: '*生日', name: '自己', year: '1997', date: '12-07',
         },
         {
-          type: '*生日', name: '李俊宏', year: '2003', date: '08-10',
+          type: '*生日', name: '李俊弘', year: '2003', date: '08-10',
         },
         {
           type: '*生日', name: '杨盛', year: '2005', date: '08-02',
