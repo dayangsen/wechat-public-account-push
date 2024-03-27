@@ -34,6 +34,12 @@ const TEMPLATE_CONFIG = [
       
       今天是陪伴柠檬茶的第{{accompany_ningmengcha_day.DATA}}天
       
+      今天是结婚的第{{marriage_certificate_day.DATA}}天
+
+      今天是结婚仪式的第{{wedding_ceremony_day.DATA}}天
+
+      今天是奥利奥离开的第{{regrets_in_life_day.DATA}}天
+      
       {{birthday_message.DATA}}
       
       ---
