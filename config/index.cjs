@@ -79,6 +79,15 @@ const USER_CONFIG = {
         },
         {
           type: '节日', name: '宝贝相识纪念日', year: '2017', date: '08-31',
+        },
+        {
+          type: '节日', name: '结婚纪念日', year: '2023', date: '05-20',
+        },
+        {
+          type: '节日', name: '结婚仪式纪念日', year: '2023', date: '10-04',
+        },
+        {
+          type: '节日', name: '奥利奥忌日', year: '2023', date: '12-26',
         }
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -92,7 +101,13 @@ const USER_CONFIG = {
         // 柠檬茶在世天数
         { keyword: 'ningmengcha_day', date: '2022-01-15' },
         // 陪伴了柠檬茶的天数
-        { keyword: 'accompany_ningmengcha_day', date: '2022-05-10' }
+        { keyword: 'accompany_ningmengcha_day', date: '2022-05-10' },
+        // 领证天数
+        { keyword: 'marriage_certificate_day', date: '2023-05-20' },
+        // 仪式天数
+        { keyword: 'wedding_ceremony_day', date: '2023-10-04' },
+        // 奥利奥去世天数(人生遗憾18点11呕吐后去世)
+        { keyword: 'regrets_in_life_day', date: '2023-12-26' }
       ],
     },
   ],
