@@ -52,8 +52,9 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '四爸', year: '1976', date: '12-03',
         },
+        // 表格生日为5月30日，因2025年没有5月30
         {
-          type: '*生日', name: '表哥', year: '1990', date: '05-30',
+          type: '*生日', name: '表哥', year: '1990', date: '06-01',
         },
         {
           type: '*生日', name: '大姐', year: '1992', date: '07-28',
